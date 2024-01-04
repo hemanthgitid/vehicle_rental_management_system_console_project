@@ -1,0 +1,8 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="AutoCloseableResource" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="METHOD_MATCHER_CONFIG" value="java.util.Formatter,format,java.io.Writer,append,com.google.common.base.Preconditions,checkNotNull,org.hibernate.Session,close,java.io.PrintWriter,printf,java.io.PrintStream,printf,MODEL_ADMIN,available_check_view|nonavailable|table_check|search_type|search_count|account_verify,MODEL_USER,select_all|vechile_available|price_find_out|already_find|outer_email_check|vechile_details|rent_false_check|non_rent|count_remove_vehicle|query2|query1|query3|query6" />
+    </inspection_tool>
+  </profile>
+</component>
